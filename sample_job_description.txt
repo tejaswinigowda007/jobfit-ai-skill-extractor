@@ -1,0 +1,14 @@
+We are looking for a Data Analyst Intern with strong Python and SQL skills.
+
+Responsibilities:
+- Analyze datasets using Python, Pandas and NumPy
+- Create dashboards using Power BI
+- Work with MySQL databases
+- Perform data visualization and statistical analysis
+- Communicate insights to business stakeholders
+- Collaborate with cross-functional teams
+
+Nice to have:
+- Machine learning knowledge
+- Git and GitHub experience
+- Excellent communication and problem-solving skills
